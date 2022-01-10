@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9a554d48-c01e-4b4c-a5e1-af1617d9ccb4" name="khuongtran" url="http://iabljite.nethost-5011.000nethost.com">
+        <fileTransfer rootFolder="/jobsvn.tk" host="iabljite.nethost-5011.000nethost.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
